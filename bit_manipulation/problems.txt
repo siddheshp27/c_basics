@@ -1,0 +1,18 @@
+1.   Set, clear, and toggle a bit.
+2.   Check if a number is even or odd.
+3.   Determine if a number is positive or negative.
+4.   Swap two numbers using bitwise operators.
+5.   Check if a number is a power of 2.
+6.   Check if a number is divisible by 8.
+7.   Rotate bits by a specified number of positions.	
+8.   Convert characters from upper to lower case and vice versa.
+9.   Reverse the bits of a given number.
+10. Compare two numbers for equality.
+11. Print the binary representation of a float.
+12. Swap adjacent bytes of a hexadecimal number.
+13. Delete a specified number of bits from a given position.
+14. Swap the first and last nibbles of an integer.
+15. Extract P bits from position N in an integer M.
+16. Macro to clear a bit at position N in an integer M.
+17. Store 48 bits from a character buffer into 2 integers.
+
